@@ -1,0 +1,2 @@
+projects:
+    - name: core_platform # dbt mesh upstream project
